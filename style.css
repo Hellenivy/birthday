@@ -1,0 +1,13 @@
+body{
+    color: rgb(219, 185, 166);
+    text-align: center;
+    background-color: black;
+}
+#img {
+    width:400px;
+    height:400px;
+    padding-right:30%;
+    margin: 50px;
+    float:right;
+
+}
